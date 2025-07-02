@@ -12,10 +12,9 @@ This app includes:
 * 🧾 Token-based access control
 
 ---
+## 🚀 Live URL: [https://bookstore-api-k7a3.onrender.com](https://bookstore-api-k7a3.onrender.com)
 
-## 🚀 Live URL (if hosted)
-
-*Optional: Add this once deployed to services like Render, Railway, or Vercel.*
+Use this URL as the base for all API requests.
 
 ---
 
