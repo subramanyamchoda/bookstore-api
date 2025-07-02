@@ -237,7 +237,7 @@ API will be running at:
 
 | Add Book                                    | Get All Books                                   |
 | ------------------------------------------- | ----------------------------------------------- |
-| <img src="assets/addbook.png" width="400"/> | <img src="assets/getallbooks.png" width="400"/> |
+| <img src="assets/addbooks.png" width="400"/> | <img src="assets/getallbooks.png" width="400"/> |
 
 | Single Book                                    | Update Book                                    | Delete Book                                    |
 | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
