@@ -1,0 +1,18 @@
+[
+  {
+    "id": "0c5b0605-6190-4402-ad67-0a6de1440191",
+    "title": "Express js in Action",
+    "author": "Evan Hahn",
+    "genre": "Web Development",
+    "publishedYear": 2016,
+    "userId": "13669048-6d2b-4f8e-8991-98ef4a1d935b"
+  },
+  {
+    "id": "797d8d32-fab9-4996-b4ad-69b61b53a27a",
+    "title": "Node.js Design Patterns",
+    "author": "Mario Casciaro",
+    "genre": "Programming",
+    "publishedYear": 2020,
+    "userId": "13669048-6d2b-4f8e-8991-98ef4a1d935b"
+  }
+]
