@@ -244,7 +244,7 @@ API will be running at:
 
 ---
 
-## 🙌 Author
+## 🙌 Reach me 
 
 **Subramanyam Choda**
 📧 [Email](mailto:your-email@example.com)
