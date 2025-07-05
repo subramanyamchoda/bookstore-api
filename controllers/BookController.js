@@ -10,7 +10,7 @@ const sendBook = async (req, res) => {
     try {
         let books = [];
 
-        // Read existing books if file exists
+        
         try {
             const data = await fs.readFile(bookFilePath, 'utf-8');
             books = data ? JSON.parse(data) : [];
@@ -24,7 +24,7 @@ const sendBook = async (req, res) => {
             return res.status(400).json({ message: 'Book already exists' });
         }
 
-        // Create new book
+    
         const bookData = {
             id: uuidv4(),
             title,
@@ -36,7 +36,7 @@ const sendBook = async (req, res) => {
 
         books.push(bookData);
 
-        // Save updated books list
+    
         await fs.writeFile(bookFilePath, JSON.stringify([...books, bookData], null, 2));
         res.status(201).json({ message: 'Book added successfully', book: bookData });
 
